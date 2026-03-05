@@ -1,0 +1,4 @@
+# Requirements for DocGenie - Python Docstring Generator
+
+gradio
+reportlab
